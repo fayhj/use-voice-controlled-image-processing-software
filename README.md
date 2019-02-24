@@ -1,7 +1,9 @@
 # use-voice-controlled-image-processing-software
  We use the speak to text sphinx4 tool to control the functionality of our software under netbeans
 
-
+## Unsip project (TNI_audi.zip) and add it onto Netbeans project areas
+## When open it on netbean you will see a project named "TraitementImageTps"
+That's good.
 ## Download sphinx4 tools using the following link:
 - <https://osdn.net/frs/g_redir.php?m=kent&f=cmusphinx%2Fsphinx4%2F1.0+beta6%2Fsphinx4-1.0beta6-bin.zip> 
 or
@@ -11,7 +13,7 @@ or
 ## goto folder "lib" and run the following file "jsapi.exe"
 ## open my project in netbean
 ## Import Spinx 4
-* In the "Project Windows" rigth click on "TNI_audio"
+* In the "Project Windows" rigth click on "TraitementImageTps"
 * Then click "Add Jar/Folder"
 * Go to the folder "lib" 
 * Select all files (Crtl + A)
