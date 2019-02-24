@@ -20,7 +20,7 @@ or
 ## Replace all links <C:\\Users\\fayhj\\Pictures> by your own link in tour computer
 ## Open "hello.gram"
 ## Replace each sentence of the line "(function one|function two|function three|function for|function five|function six|rotate)" by your own sentence like "rotate"
-## In "TNI.java" uncomment lines 1550 to 1556
+## In "TNI.java" uncomment lines 1214 to 1220
 ## Then modify words like "function one" to his correspondence.
 ex: rotate correspond to rotate in "hello.gram"
 That finish
