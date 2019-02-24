@@ -8,7 +8,6 @@ That's good.
 - <https://osdn.net/frs/g_redir.php?m=kent&f=cmusphinx%2Fsphinx4%2F1.0+beta6%2Fsphinx4-1.0beta6-bin.zip> 
 or
 - <https://sourceforge.net/projects/cmusphinx/files/sphinx4/1.0%20beta6/sphinx4-1.0beta6-bin.zip/download>
-- **Dashboards:**
 ## Extract zip file
 ## goto folder "lib" and run the following file "jsapi.exe"
 ## open my project in netbean
